@@ -1,0 +1,8 @@
+*.bz2
+*.deb
+*.exe
+*.o
+*.tgz
+ref/*
+tsh
+tshd
