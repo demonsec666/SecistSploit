@@ -10,6 +10,7 @@ class Exploit(TCPClient):
 
         "\033[91m参考链接\033[0m": (
              "https://github.com/trustedsec/trevorc2\n"
+             "http://www.ggsec.cn/trevorc2.html\n"
         ),
 
         "\033[91m作者\033[0m": (

@@ -25,20 +25,22 @@ https://github.com/threat9/routersploit
 ![SecistSloit](https://img.shields.io/badge/SecistSloit-%E6%A1%86%E6%9E%B6-green.svg)
 
 ```
- ____            _     _   ____        _       _ _
-/ ___|  ___  ___(_)___| |_/ ___| _ __ | | ___ (_) |_
-\___ \ / _ \/ __| / __| __\___ \| '_ \| |/ _ \| | __|
-___) |  __/ (__| \__ \ |_ ___) | |_) | | (_) | | |_
-|____/ \___|\___|_|___/\__|____/| .__/|_|\___/|_|\__|
- Exploitation Framework for    | |      by Demon
-                               |_|
+
+     ▄▀▀▀▀▄  ▄▀▀▀▀▄  ▄▀▀▀█▄    ▄▀▄▄▄▄   ▄▀▀▀▀▄   ▄▀▀▄ ▀▄  ▄▀▀▀▀▄  ▄▀▀▀▀▄   ▄▀▀▀▀▄      ▄▀▀█▄▄▄▄
+    █ █   ▐ █ █   ▐ █  ▄▀  ▀▄ █ █    ▌ █      █ █  █ █ █ █ █   ▐ █      █ █    █      ▐  ▄▀   ▐
+       ▀▄      ▀▄   ▐ █▄▄▄▄   ▐ █      █      █ ▐  █  ▀█    ▀▄   █      █ ▐    █        █▄▄▄▄▄
+    ▀▄   █  ▀▄   █   █    ▐     █      ▀▄    ▄▀   █   █  ▀▄   █  ▀▄    ▄▀     █         █    ▌
+     █▀▀▀    █▀▀▀    █         ▄▀▄▄▄▄▀   ▀▀▀▀   ▄▀   █    █▀▀▀     ▀▀▀▀     ▄▀▄▄▄▄▄▄▀  ▄▀▄▄▄▄
+     ▐       ▐      █         █     ▐           █    ▐    ▐                 █          █    ▐
+                    ▐         ▐                 ▐                           ▐          ▐
 
 
-
-Codename   : 即刻安全漏洞利用框架
-Version    : 0.1
-Demon      : http://www.ggsec.cn
-secist     : http://www.secist.com
+                         上帝之终极蛇皮之上帝之视角
+                         Codename   : 即刻安全漏洞利用框架
+                         Version    : v0.1
+                         Demon      : http://www.ggsec.cn
+                         Team       : http://www.secist.com
+              [ 5 exploits  3 listener   6 encoders   8 auxiliary   1 crack ]
 
 SSF > use exploits/payload/linux/tsh_backdoor
 SSF (linux_tsh_backdoor) > 

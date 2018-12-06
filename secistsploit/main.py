@@ -226,7 +226,12 @@ class secistsploitInterpreter(BaseInterpreter):
         self.__parse_prompt()
 
         self.banner = """
-
+                         上帝之终极蛇皮之上帝之视角
+                         Codename   : 即刻安全漏洞利用框架
+                         Version    : v0.1
+                         Demon      : http://www.ggsec.cn
+                         Team       : http://www.secist.com
+                         
               [ {exploits_count} exploits  {listener_count} listener   {encoders_count} encoders   {auxiliary_count} auxiliary   {crack_count} crack ]
 
 """.format(exploits_count=self.modules_count["exploits"],
